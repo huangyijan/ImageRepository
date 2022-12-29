@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-29T15:41:04.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="a175KMci3i25L1yljPOb" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-29T15:44:24.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_iHXQ7ic-blpT4MkBh-x" version="20.7.4" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,10 +127,10 @@
         <mxCell id="ZMkgEjLzoJMiGTBHx-T8-78" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;CDN&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;strokeWidth=2;fontSize=15;fontColor=#3399FF;fillColor=#69b1ff;" vertex="1" parent="1">
           <mxGeometry x="1007.5" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZMkgEjLzoJMiGTBHx-T8-79" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;ICE&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;strokeWidth=2;fontSize=15;fontColor=#3399FF;fillColor=#69b1ff;" vertex="1" parent="1">
+        <mxCell id="ZMkgEjLzoJMiGTBHx-T8-79" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Axios&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;strokeWidth=2;fontSize=15;fontColor=#3399FF;fillColor=#69b1ff;" vertex="1" parent="1">
           <mxGeometry x="1157.5" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZMkgEjLzoJMiGTBHx-T8-88" value="&lt;b&gt;规范Lint&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;strokeWidth=2;fontSize=15;fontColor=#3399FF;" vertex="1" parent="1">
+        <mxCell id="ZMkgEjLzoJMiGTBHx-T8-88" value="&lt;b&gt;规范约束&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;strokeWidth=2;fontSize=15;fontColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="400" y="640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZMkgEjLzoJMiGTBHx-T8-89" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;strokeWidth=2;fontSize=15;fontColor=#ffffff;align=center;fillColor=#bae0ff;" vertex="1" parent="1">
@@ -159,6 +159,39 @@
         </mxCell>
         <mxCell id="ZMkgEjLzoJMiGTBHx-T8-97" value="Typescript" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#3399FF;strokeWidth=2;fontSize=15;fontColor=#FFFFFF;fillColor=#0958d9;" vertex="1" parent="1">
           <mxGeometry x="1102.5" y="432.5" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkgEjLzoJMiGTBHx-T8-98" value="&lt;font color=&quot;#3399ff&quot;&gt;&lt;b&gt;代码规范&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;fillColor=#e6f4ff;" vertex="1" parent="1">
+          <mxGeometry x="210" y="650" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkgEjLzoJMiGTBHx-T8-99" value="&lt;b&gt;测试&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;strokeWidth=2;fontSize=15;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkgEjLzoJMiGTBHx-T8-100" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;strokeWidth=2;fontSize=15;fontColor=#ffffff;align=center;fillColor=#bae0ff;" vertex="1" parent="1">
+          <mxGeometry x="537.5" y="870" width="780" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkgEjLzoJMiGTBHx-T8-101" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Jest&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;strokeWidth=2;fontSize=15;fontColor=#3399FF;fillColor=#69b1ff;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="880" width="182.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkgEjLzoJMiGTBHx-T8-103" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Mocha&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;strokeWidth=2;fontSize=15;fontColor=#3399FF;fillColor=#69b1ff;" vertex="1" parent="1">
+          <mxGeometry x="857.5" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkgEjLzoJMiGTBHx-T8-105" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Lighthouse&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;strokeWidth=2;fontSize=15;fontColor=#3399FF;fillColor=#69b1ff;" vertex="1" parent="1">
+          <mxGeometry x="1157.5" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkgEjLzoJMiGTBHx-T8-106" value="&lt;b&gt;部署&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#3399FF;strokeWidth=2;fontSize=15;fontColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkgEjLzoJMiGTBHx-T8-107" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006EAF;strokeWidth=2;fontSize=15;fontColor=#ffffff;align=center;fillColor=#bae0ff;" vertex="1" parent="1">
+          <mxGeometry x="537.5" y="980" width="780" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkgEjLzoJMiGTBHx-T8-108" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Jenkins&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;strokeWidth=2;fontSize=15;fontColor=#3399FF;fillColor=#69b1ff;" vertex="1" parent="1">
+          <mxGeometry x="836.25" y="990" width="182.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkgEjLzoJMiGTBHx-T8-109" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;小程序平台&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;strokeWidth=2;fontSize=15;fontColor=#3399FF;fillColor=#69b1ff;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkgEjLzoJMiGTBHx-T8-111" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Git Hook&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3399FF;strokeWidth=2;fontSize=15;fontColor=#3399FF;fillColor=#69b1ff;" vertex="1" parent="1">
+          <mxGeometry x="570" y="990" width="182.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
